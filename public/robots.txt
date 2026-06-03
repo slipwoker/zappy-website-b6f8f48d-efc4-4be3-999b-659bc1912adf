@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://operation-beacon-path-b6f8f48d.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
