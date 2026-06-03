@@ -1,0 +1,78 @@
+# Operation Beacon Path — Generative Engine Optimization Map
+
+> Operation Beacon Path is a nonprofit organization with a name that evokes guidance, direction, and illuminating a way forward for those in need. The 'beacon' and 'path' imagery suggests a mission centered on hope, navigation, and community support — potentially serving individuals who need direction or assistance in their lives.
+
+---
+
+## Pages
+
+### Home
+https://operation-beacon-path-b6f8f48d.zappy5.app
+Discover a guiding light for education, coaching, and community action. Operation Beacon Path helps youth and adults navigate life&#39;s challenges with hope and direction. Join our mission today.
+
+### Programs & Impact
+https://operation-beacon-path-b6f8f48d.zappy5.app/programs-impact
+Explore our hands-on education initiatives, professional mentorship, and youth services making real change. See the impact we&#39;re creating in communities every day. Get involved now.
+
+### About
+https://operation-beacon-path-b6f8f48d.zappy5.app/about
+We&#39;re a passionate nonprofit dedicated to illuminating paths forward through education, mentorship, and youth empowerment. Learn our story and the values that drive lasting change.
+
+### Contact
+https://operation-beacon-path-b6f8f48d.zappy5.app/contact
+Ready to support our mission or need direction yourself? Reach out about our coaching, youth services, or partnership opportunities. Your next step toward impact starts here.
+
+## Legal & Policy
+
+### Privacy Policy
+https://operation-beacon-path-b6f8f48d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://operation-beacon-path-b6f8f48d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://operation-beacon-path-b6f8f48d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://operation-beacon-path-b6f8f48d.zappy5.app/contact
+- Endpoint: https://operation-beacon-path-b6f8f48d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Operation Beacon Path
+Operation Beacon Path is a nonprofit organization with a name that evokes guidance, direction, and illuminating a way forward for those in need. The 'beacon' and 'path' imagery suggests a mission centered on hope, navigation, and community support — potentially serving individuals who need direction or assistance in their lives.
+
+## Target Audience
+- Community Leaders
+- Philanthropic Individuals
+- Corporate Sponsors
+
+## Industry
+Nonprofit / Community Organization
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://operation-beacon-path-b6f8f48d.zappy5.app/sitemap.xml
+- Robots: https://operation-beacon-path-b6f8f48d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://operation-beacon-path-b6f8f48d.zappy5.app/llms-full.txt
